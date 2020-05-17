@@ -39,6 +39,6 @@ Select the deployed service (simplemicroservice)
 
 ## 4. Test the App
 
-The Cloud Run UI will expose the link and use that link to verify the Microservice is working fine.
+The Cloud Run UI will expose the link (https://simplemicroservice-lrcqemefsa-uw.a.run.app) and use that link to verify the Microservice is working fine.
 
 
