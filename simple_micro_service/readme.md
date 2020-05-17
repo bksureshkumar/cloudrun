@@ -24,6 +24,19 @@ Use gcloud command to deploy the container image to the Cloud Run
 
 gcloud run deploy --image gcr.io/broadcom-gcp-migration-pocs/simple_micro_service --platform managed
 
+
+Go to the Cloud Run from the Google Cloud Console
+
+
+![](images/CloudRunMenu.png)
+
+
+Select the deployed service (simplemicroservice)
+
+
+![](images/CloudRunMicroService.png)
+
+
 ## 4. Test the App
 
 The Cloud Run UI will expose the link and use that link to verify the Microservice is working fine.
