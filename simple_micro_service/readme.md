@@ -1,6 +1,6 @@
 # Build and Deploy Microservice to Cloud Run
 
-Cloud Run ia a managed compute platform to run stateless containers. I am using a simple Java Microservice to build and deploy to Cloud Run. Here are the following steps
+Cloud Run is a managed compute platform to run stateless containers. I am using a simple Java Microservice to build and deploy to Cloud Run. Here are the following steps
 
 1. Github or the Cloud Source Repository where the Microservice code is loacted
 
